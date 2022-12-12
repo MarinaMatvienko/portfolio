@@ -1,4 +1,4 @@
-## Тестировщик ПО (Manual testing) - стажер
+## Тестировщик ПО (Manual testing)
 ***
 
 ![foto](img/img.png)
